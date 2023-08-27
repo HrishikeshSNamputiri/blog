@@ -1,0 +1,4 @@
+[submodule "hrishikesh/public"]
+	path = hrishikesh/public
+	url = https://github.com/HrishikeshSNamputiri/HrishikeshSNamputiri.github.io
+	branch = main

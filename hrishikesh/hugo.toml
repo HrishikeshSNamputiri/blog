@@ -1,0 +1,4 @@
+baseURL = 'https://HrishikeshSNamputiri.github.io/'
+languageCode = 'en-us'
+title = 'Hrishikesh S Namputiri'
+theme = 'hugo-coder'

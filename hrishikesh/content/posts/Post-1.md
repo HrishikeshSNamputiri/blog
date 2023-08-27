@@ -11,3 +11,9 @@ externalLink = ""
 series = []
 +++
 
+## Install Hugo
+sudo pacman -S hugo
+
+## Create two repo named <username>.github.io and blog
+
+##

@@ -1,6 +1,6 @@
 +++ 
-draft = true
-date = 2023-08-27T17:31:35+05:30
+draft = false
+date = 2023-08-27T22:22:13+05:30
 title = "How did I made the website"
 description = ""
 slug = ""

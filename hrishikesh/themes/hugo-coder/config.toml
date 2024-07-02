@@ -1,5 +1,5 @@
 baseURL = "https://hrishikeshsnamputiri.github.io"
-title = "hrishikesh"
+title = "thirumeni"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -15,8 +15,8 @@ noClasses = false
 author = "Hrishikesh S Namputiri"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Hrishikesh's personal portfolio"
-keywords = "blog,developer,personal"
-info = ["I use Arch btw", "Emacs User"]
+keywords = "CP,personal"
+info = ["Future ICPC World Finalist","I use Arch btw", "Emacs User"]
 avatarURL = "https://w7.pngwing.com/pngs/478/231/png-transparent-computer-icons-astronaut-outer-space-astronaut-outer-space-astronaut-computer-icons.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -52,7 +52,7 @@ customRemoteJS = []
   weight = 2
   url = "about/"
 [[menu.main]]
-  name = "Blog"
+  name = "ICPC Training Blog"
   weight = 1
   url  = "posts/"
 [[menu.main]]

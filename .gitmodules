@@ -2,3 +2,7 @@
 	path = hrishikesh/public
 	url = https://github.com/HrishikeshSNamputiri/HrishikeshSNamputiri.github.io
 	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/HrishikeshSNamputiri/HrishikeshSNamputiri.github.io
+	branch = main
